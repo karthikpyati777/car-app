@@ -2,4 +2,6 @@ docker file is created.
 
 MAINTINAR "KARTHIK kumar pyati".
 
-Handled By KARTHIK
+
+Handled By PAVAN and KARTHIK
+
